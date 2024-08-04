@@ -25,3 +25,5 @@ static
 .pnp.loader.mjs
 node_modules
 *egg-info
+
+transcript_tiles
