@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo -E -u jupyter /opt/conda/bin/pip install anywidget  --user
 sudo -E -u jupyter /opt/conda/bin/pip install celldega==0.12.0  --user
 
 # Enable nbextension for classic Jupyter Notebook
